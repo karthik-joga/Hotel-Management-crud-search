@@ -1,0 +1,37 @@
+{
+  "hotel": [
+    {
+      "name": "karthik",
+      "age": "25",
+      "gender": "male",
+      "email": "hi@gmail.com",
+      "phoneno": 8074031160,
+      "noper": 1,
+      "purpose": "interview",
+      "noofroom": "1",
+      "fromDate": "2022-05-31",
+      "toDate": "2022-06-01",
+      "loc": "Banglore",
+      "id": 1
+    },
+    {
+      "name": "joga karthik",
+      "age": "25",
+      "gender": "male",
+      "email": "kart@gmail",
+      "phoneno": "807",
+      "noper": "1",
+      "purpose": "interview",
+      "noofroom": "1",
+      "fromDate": "2022-05-29",
+      "toDate": "2022-05-30",
+      "loc": "vizag",
+      "id": 2
+    }
+  ],
+  "places": [
+    {
+      "name": "banglore"
+    }
+  ]
+}
